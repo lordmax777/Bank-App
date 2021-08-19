@@ -1,6 +1,6 @@
 # BANK-App
 
-# Light Mode
+
 <a href="https://ibb.co/303892Y"><img src="https://i.ibb.co/mHjYVkF/aaaa.jpg" alt="aaaa" border="0" width=100></a>
 <a href="https://ibb.co/LSV8JP2"><img src="https://i.ibb.co/R2R9BSV/bbbb.jpg" alt="bbbb" border="0" width=100></a>
 <a href="https://ibb.co/ZhvfKbB"><img src="https://i.ibb.co/Cn4wvSb/nnnn.jpg" alt="nnnn" border="0" width=100></a>
@@ -12,8 +12,9 @@
 <a href="https://ibb.co/q5zmPqb"><img src="https://i.ibb.co/8cJPSvF/iiii.jpg" alt="iiii" border="0" width=100></a>
 <a href="https://ibb.co/QD7tbKY"><img src="https://i.ibb.co/Z2R7LMc/tttt.jpg" alt="tttt" border="0" width=100></a>
 <a href="https://ibb.co/C54t9fD"><img src="https://i.ibb.co/3yVsFnQ/qqqq.jpg" alt="qqqq" border="0" width=100></a>
+# Light Mode
 
-# Dark Mode
+
 <a href="https://ibb.co/0X0Q3L1"><img src="https://i.ibb.co/8ByXVwG/aaaa.jpg" alt="aaaa" border="0" width=100></a>
 <a href="https://ibb.co/5KC21yJ"><img src="https://i.ibb.co/QDhXJRx/bbbb.jpg" alt="bbbb" border="0" width=100></a>
 <a href="https://ibb.co/7yHQfk2"><img src="https://i.ibb.co/LpMrFNn/cccc.jpg" alt="cccc" border="0" width=100></a>
@@ -26,13 +27,13 @@
 <a href="https://ibb.co/Lkd2NTM"><img src="https://i.ibb.co/vw4KXNb/pppp.jpg" alt="pppp" border="0" width=100></a>
 <a href="https://ibb.co/6r0Ljss"><img src="https://i.ibb.co/DzfT0KK/eeee.jpg" alt="eeee" border="0" width=100></a>
 <a href="https://ibb.co/J2m44HT"><img src="https://i.ibb.co/sQbGGq4/qqqq.jpg" alt="qqqq" border="0" width=100></a>
+# Dark Mode
 
+
+[<img src="https://i.ibb.co/XkYpvbR/vev.png" alt="vev" border="0"></a>](https://youtu.be/RoL9XRXmVQk)
 # Video Youtube
-[<img src="https://i.ibb.co/XkYpvbR/vev.png" alt="vev" border="0" width=100></a>](https://youtu.be/RoL9XRXmVQk)
 
 ## Getting Started
-
-# Installing Package
 
   cupertino_icons: ^1.0.2
   stacked: ^2.2.3
@@ -42,6 +43,7 @@
   flutter_screen_lock: ^4.0.4+1
   comment_box: ^0.0.16
   passcode_screen: ^2.0.0
+# Installing Package
   
 ## flutter pub get
 ## flutter run
