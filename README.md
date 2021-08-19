@@ -30,19 +30,19 @@
 # Dark Mode
 
 
-[<img src="https://i.ibb.co/XkYpvbR/vev.png" alt="vev" border="0" width=80></a>](https://youtu.be/RoL9XRXmVQk)
+[<img src="https://i.ibb.co/XkYpvbR/vev.png" alt="vev" border="0" width=130></a>](https://youtu.be/RoL9XRXmVQk)
 # Video Youtube
 
 ## Getting Started
 
-  cupertino_icons: ^1.0.2 <\br>
-  stacked: ^2.2.3 <\br>
-  card_swiper: ^1.0.4 <\br>
-  tcard: ^1.3.5 <\br>
-  local_auth: ^1.1.6 <\br>
-  flutter_screen_lock: ^4.0.4+1 <\br>
-  comment_box: ^0.0.16 <\br>
-  passcode_screen: ^2.0.0 <\br>
+  cupertino_icons: ^1.0.2 <br/>
+  stacked: ^2.2.3 <br/>
+  card_swiper: ^1.0.4 <br/>
+  tcard: ^1.3.5 <br/>
+  local_auth: ^1.1.6 <br/>
+  flutter_screen_lock: ^4.0.4+1 <br/>
+  comment_box: ^0.0.16 <br/>
+  passcode_screen: ^2.0.0 <br/>
 # Installing Package 
   
 ## flutter pub get
