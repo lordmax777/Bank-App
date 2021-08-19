@@ -47,3 +47,6 @@
   
 ## flutter pub get
 ## flutter run
+
+## [Shu Yerdan Yuklab Olishingiz Mumkun](https://github.com/lordmax777/Bank-App/blob/main/app-release.apk)
+
